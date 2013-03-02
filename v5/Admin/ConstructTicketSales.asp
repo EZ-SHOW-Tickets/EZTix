@@ -1,0 +1,5 @@
+<% 
+dim Seats()
+dim rsPriceCategory
+
+%>

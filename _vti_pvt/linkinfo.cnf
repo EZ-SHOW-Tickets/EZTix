@@ -1,0 +1,38 @@
+vti_encoding:SR|utf8-nl
+v5/securesite/images/joinowbckgrn.jpg:v5/securesite/processfreepayment.asp v5/securesite/processpayment.asp
+v5/common/seasontickets/seasonticketreceipts.asp:v5/common/processpayment.asp
+v5/common/images/joinowbckgrn.jpg:v5/common/processpayment.asp
+v5/admin/verify_selection.asp:v5/admin/reviewtheaterseating.asp
+javascript\:window.close();:v5/hfthochsa.asp v5/eventsonline.asp v5/freeevents.asp v5/events.asp v5/admin/theaterseating.asp v5/plumevents.asp
+https\://www.digicert.com/custsupport/sealtable.php:v5/securesite/setuppayment.asp v5/securesite/processfreepayment.asp v5/securesite/processpayment.asp v5/securesite/setupfreetickets.asp
+javascript\:saveupdateevent(<%=numprices%>);:v5/admin/eventsetup.asp
+v5/images/joinowbckgrn.jpg:v5/processplumpayment.asp
+v5/images/<%=strshowlogo%>:v5/selectperformance.asp v5/selectplumperformance.asp v5/selecttheaterlocation.asp v5/selectfreeperformance.asp v5/selectseattype.asp v5/selectshowseattype.asp v5/selectfreeseattype.asp v5/selectplumseattype.asp
+javascript\:fperformance();:v5/admin/administration.asp
+javascript\:purchasetickets(<%=j%>,<%=totalseats%>,0,<%=stype%>);:v5/selecttheaterlocation.asp v5/selectseattype.asp v5/selectshowseattype.asp v5/selectfreeseattype.asp v5/selectplumseattype.asp
+javascript\:cancelticket();:v5/admin/edittickets.asp
+javascript\:checkmethod('<%=strpaymentmethod%>');:v5/securesite/processfreepayment.asp v5/processplumpayment.asp v5/securesite/processpayment.asp
+javascript\:backtosetup(<%=lsessionid%>,<%=accountid%>,<%=admin%>);:v5/securesite/paymentandreceipt.asp v5/securesite/freepaymentandreceipt.asp
+v5/images/<%=accountlogo%>:v5/admin/eventsetup.asp v5/selectperformance.asp v5/admin/performanceanalysis.asp v5/selectplumperformance.asp v5/hfthochsa.asp v5/setupplumpayment.asp v5/admin/edittickets.asp v5/selectfreeperformance.asp v5/eventsonline.asp v5/freeevents.asp v5/events.asp v5/admin/performanceticketsales.asp v5/admin/theaterseating.asp v5/admin/administration.asp v5/plumevents.asp
+https\://www.cgc-services.com/eztv5/images/return.gif:v5/securesite/paymentandreceipt.asp v5/plumpaymentandreceipt.asp v5/securesite/freepaymentandreceipt.asp
+javascript\:submitselection(<%=numtix%>);:v5/plumtheaterseating.asp
+<%=theatermapquest%>:v5/selectperformance.asp v5/selectplumperformance.asp v5/selecttheaterlocation.asp v5/selectfreeperformance.asp v5/selectseattype.asp v5/selectshowseattype.asp v5/selectfreeseattype.asp v5/selectplumseattype.asp
+javascript\:submitaccount();:v5/eztlogin.asp
+javascript\:checkpayment('<%=nopaymentmethods%>');:v5/setupplumpayment.asp v5/securesite/setuppayment.asp v5/securesite/setupfreetickets.asp
+v5/<:v5/testloading.asp
+javascript\:fseating();:v5/admin/administration.asp
+https\://www.cgc-services.com/eztv5/images/resubmit.gif:v5/securesite/paymentandreceipt.asp v5/securesite/freepaymentandreceipt.asp
+http\://www.digicert.com/:v5/securesite/setuppayment.asp v5/securesite/processfreepayment.asp v5/securesite/processpayment.asp
+javascript\:checkemail();:v5/setupplumpayment.asp v5/securesite/setuppayment.asp v5/securesite/setupfreetickets.asp
+v5/securesite/images/<%=accountlogo%>:v5/securesite/setuppayment.asp v5/securesite/setupfreetickets.asp
+javascript\:print();:v5/securesite/paymentandreceipt.asp v5/plumpaymentandreceipt.asp v5/securesite/freepaymentandreceipt.asp
+javascript\:fshow();:v5/admin/administration.asp
+javascript\:goback();:v5/selectperformance.asp v5/selecttheaterlocation.asp v5/selectfreeperformance.asp v5/selectseattype.asp v5/selectshowseattype.asp v5/theaterseating.asp v5/plumtheaterseating.asp v5/selectplumseattype.asp
+http\://www.ez-show-tickets.com/v5/events.asp:errorpage.asp v5/errorpage.asp v5/admin/errorpage.asp v5/securesite/errorpage.asp v5/securesite/toolatepage.asp
+javascript\:reselectseats();:v5/setupplumpayment.asp v5/securesite/setuppayment.asp v5/securesite/setupfreetickets.asp
+v5/images/<%=session("accountlogo")%>:v5/selecttheaterlocation.asp v5/processfreeperformance.asp v5/processplumperformance.asp v5/processperformance.asp v5/selectseattype.asp v5/selectshowseattype.asp v5/selectfreeseattype.asp v5/theaterseating.asp v5/plumtheaterseating.asp v5/selectplumseattype.asp
+javascript\:logout();:v5/admin/administration.asp
+<%=accountreturnurl%>:v5/securesite/paymentandreceipt.asp v5/plumpaymentandreceipt.asp v5/securesite/freepaymentandreceipt.asp
+http\://www.digicert.com/ssl.htm:v5/securesite/setupfreetickets.asp
+javascript\:purchasetickets(<%=j%>,<%=totalseats%>,1,<%=stype%>);:v5/selecttheaterlocation.asp v5/selectshowseattype.asp
+javascript\:submitselection();:v5/theaterseating.asp v5/admin/theaterseating.asp
